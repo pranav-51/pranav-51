@@ -1,3 +1,4 @@
+![logo](https://github.com/pranav-51/pranav-51/blob/main/1691915766404.jpeg)
 <h1 align="center">Hi,I'm Pranav Baburaj</h1>
 <h3 align="center">A passionate upcoming grad from India.</h3>
 
